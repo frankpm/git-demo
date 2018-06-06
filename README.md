@@ -2,19 +2,7 @@
 
 This is the first file. Yeahhhh....
 
-## Ipsum is coming in...
+## Website Contents
 
-Here is a bunch of text!! Here is a bunch of text!! Here is a bunch of text!! Here is a bunch of text!! 
-Here is a bunch of text!! 
-Here is a bunch of text!! 
-
-
-Here is a bunch of text!! 
-
-
-ehhh
-
-
-
-EVEN MORE STUFF!!
+and here is different stuff
 
